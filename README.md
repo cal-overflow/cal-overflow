@@ -8,12 +8,12 @@ Learn more about me on my [website](http://cal-overflow.dev) or [YouTube channel
 - 🎮 I'm probably playing Minecraft
 
 
-<details open>
+<details>
 
   <summary>Favorite technologies</summary>
 
   #### DevOps
-  [<img src="assets/AWS.svg" alt="AWS" title="AWS" height="40px" width="auto" style="border-radius: 2px; padding: 5px; background-color: #ffffff;" />](https://aws.amazon.com/)
+  [<img src="assets/AWS.svg" alt="AWS" title="AWS" height="40px" width="auto" />](https://aws.amazon.com/)
   [<img src="assets/Docker.svg" alt="Docker" title="Docker" height="50px" width="auto" />](https://www.docker.com/)
   [<img src="assets/K8s.svg" alt="Kubernetes" title="Kubernetes" height="50px" width="auto" />](https://kubernetes.io/)
   [<img src="assets/Bitrise.svg" alt="Bitrise" title="Bitrise" height="50px" width="auto" />](https://www.bitrise.io/)
@@ -31,7 +31,7 @@ Learn more about me on my [website](http://cal-overflow.dev) or [YouTube channel
   [<img src="assets/Spring.svg" alt="Spring" title="Spring" height="50px" width="auto" />](https://spring.io/)
   [<img src="assets/Postgres.svg" alt="Postgres" title="Postgres" height="50px" width="auto" />](https://www.postgresql.org/)
   [<img src="assets/MySQL.svg" alt="MySQL" title="MySQL" height="50px" width="auto" />](https://www.mysql.com/)
-  [<img src="assets/SocketIO.svg" alt="Socket.io" title="Socket.io" height="50px" width="auto" style="border-radius: 5px;" />](https://socket.io/)
+  [<img src="assets/SocketIO.svg" alt="Socket.io" title="Socket.io" height="50px" width="auto" />](https://socket.io/)
 
   #### General
   [<img src="assets/JavaScript.svg" alt="JavaScript" title="JavaScript" height="50px" width="auto" />](https://www.javascript.com/)
