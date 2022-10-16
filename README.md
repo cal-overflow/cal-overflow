@@ -3,8 +3,8 @@ I'm a software engineer with too much free time 🙈 \
 Learn more about me on my [website](http://cal-overflow.dev) or [YouTube channel](https://www.youtube.com/channel/UCTfscxyX4CI9SnWdFqK4FJw).
 
 
-- 💻 I'm currently developing a Multiplayer Pac-Man game titled [Pac-Man Overflow](https://github.com/cal-overflow/pacman-overflow) 👾
-- 📚 I'm currently learning [Kubernetes](https://kubernetes.io/)
+- 💻 I'm currently operating a university organization for providing students information and experience with cloud-based development ☁️
+- 📚 I'm currently learning computer graphics like [Web GL](https://g.co/kgs/KqnT1D) and [three.JS](https://threejs.org/)
 - 🎮 I'm probably playing Minecraft
 
 
