@@ -4,6 +4,7 @@ Learn more about me on my [website](http://cal-overflow.dev) or [YouTube channel
 
 
 - 💻 I'm currently operating a university organization for providing students information and experience with cloud-based development ☁️
+- 🧠 I'm currently learning the ropes of Neovim as my primary text-editor 🙈
 - 📚 I'm currently learning computer graphics like [Web GL](https://g.co/kgs/KqnT1D) and [three.JS](https://threejs.org/)
 - 🎮 I'm probably playing Minecraft
 
